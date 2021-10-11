@@ -46,6 +46,12 @@ def Nom_JB():
 def Prenom_JB():
     return "JB"
 
+def Nom_Sumatra():
+    return "Ravi"
+
+def Prenom_Sumatra():
+    return "Sumatra"
+
 def print_classe():
     
     print(Prenom_Stephane(), " ", Nom_Stephane())
@@ -56,5 +62,6 @@ def print_classe():
     print(Prenom_Alexandre(), " ", Nom_Alexandre())
     print(Prenom_Jessy(), " ", Nom_Jessy())
     print(Prenom_JB(), " ", Nom_JB())
+    print(Prenom_Sumatra(), " ", Nom_Sumatra())
 
 print_classe()
