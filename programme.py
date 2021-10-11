@@ -36,6 +36,7 @@ def Nom_Anthony ():
 def print_classe ():
     print (Prenom_Stephane(), " ", Nom_Stephane())
     print(Prenom_Quentin()," ",Nom_Quentin())
+    print(Prenom_Anthony()," ",Nom_Anthony())
     print(Prenom_Alexandre()," ", Nom_Alexandre())
     print(Prenom_Jessy(), " ", Nom_Jessy())
 
