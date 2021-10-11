@@ -21,6 +21,5 @@ def Nom_Quentin():
 def print_classe ():
     print (Prenom_Stephane(), " ", Nom_Stephane())
     print(Prenom_Quentin()," ",Nom_Quentin())
-	print(Prenom_Alexandre(), Nom_Alexandre())
-
+	print(Prenom_Alexandre()," ", Nom_Alexandre())
 print_classe()
