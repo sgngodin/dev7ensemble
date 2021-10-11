@@ -41,7 +41,7 @@ def Prenom_Tresor():
     return "tresor"
 
 def Nom_JB():
-    return "CHENEAU"
+    return "Chéneau"
 
 def Prenom_JB():
     return "JB"
@@ -58,6 +58,12 @@ def Nom_Leo():
 def Prenom_Leo():
     return "Léo"
 
+def Prenom_Sonia():
+    return "Sonia"
+
+def Nom_Sonia():
+    return "Plagne"
+
 def print_classe():
     
     print(Prenom_Stephane(), " ", Nom_Stephane())
@@ -70,5 +76,6 @@ def print_classe():
     print(Prenom_JB(), " ", Nom_JB())
     print(Prenom_Sumatra(), " ", Nom_Sumatra())
     print(Prenom_Leo(), " ", Nom_Leo())
+    print(Prenom_Sonia(), " ", Nom_Sonia())
 
 print_classe()
