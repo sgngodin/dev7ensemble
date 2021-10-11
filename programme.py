@@ -1,12 +1,10 @@
+def Prenom_JB():
+    return "JB" 
 
+def Nom_JB():
+    return "CHENEAU"
 
-def Prenom_Jessy ():
-    return "Jessy"
-
-def Nom_Jessy ():
-    return "Giteau"
-
-def print_classe ():
-    print (Prenom_Jessy(), " ", Nom_Jessy())
+def print_classe():
+    print(Prenom_JB(),Nom_JB())
 
 print_classe()
