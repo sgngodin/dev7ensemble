@@ -18,7 +18,11 @@ def Nom_Quentin():
 def Nom_Stephane ():
     return "Godin"
 
+def Prenom_Allan ():
+    return "Allan"
 
+def Nom_Lelous ():
+    return "Lelous"
 def Prenom_Jessy():
     return "Jessy"
 
@@ -47,6 +51,7 @@ def print_classe():
 
     print (Prenom_Stephane(), " ", Nom_Stephane())
     print(Prenom_Quentin()," ",Nom_Quentin())
+    print(Prenom_Allan(), " ", Nom_Lelous())
 
     print(Prenom_Tresor(), " ", Nom_diambu())
 
