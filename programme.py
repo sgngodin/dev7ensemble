@@ -1,12 +1,12 @@
 
 
-def Prenom_Stephane ():
-    return "Stephane"
+def Prenom_Alexandre ():
+    return "Alexandre"
 
-def Nom_Stephane ():
-    return "Godin"
+def Nom_Alexandre ():
+    return "Sage"
 
 def print_classe ():
-    print (Prenom_Stephane(), " ", Nom_Stephane())
+    print (Prenom_Alexandre(), " ", Nom_Alexandre())
 
 print_classe()
