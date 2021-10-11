@@ -38,7 +38,11 @@ def Nom_diambu():
 
 def Prenom_Tresor():
     return "tresor"
+def Prenom_Sumatra ():
+    return "Sumatra"
 
+def Nom_Ravi
+    return "ravi"
 def print_classe():
 
     print (Prenom_Stephane(), " ", Nom_Stephane())
@@ -49,7 +53,7 @@ def print_classe():
     print(Prenom_Anthony()," ",Nom_Anthony())
     print(Prenom_Alexandre()," ", Nom_Alexandre())
     print(Prenom_Jessy(), " ", Nom_Jessy())
-
+    print (Prenom_Sumatra(),"", Nom_ravi())
 
 
 print_classe()
