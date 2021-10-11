@@ -10,3 +10,11 @@ def print_classe ():
     print (Prenom_Stephane(), " ", Nom_Stephane())
 
 print_classe()
+
+def Prenom_Sumatra ():
+    return "Sumatra"
+
+def Nom_Ravi
+    return "ravi"
+    print (Prenom_Sumatra(),"", Nom_ravi())
+Print_classe()
