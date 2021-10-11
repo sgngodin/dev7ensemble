@@ -1,12 +1,19 @@
 
 
-def Prenom_Jessy ():
-    return "Jessy"
+def Prenom_Stephane ():
+    return "Stephane"
 
-def Nom_Jessy ():
-    return "Giteau"
+def Prenom_Quentin():
+    return "Quentin"
+
+def Nom_Stephane ():
+    return "Godin"
+
+def Nom_Quentin():
+    return "Roulet"
 
 def print_classe ():
-    print (Prenom_Jessy(), " ", Nom_Jessy())
+    print (Prenom_Stephane(), " ", Nom_Stephane())
+    print(Prenom_Quentin()," ",Nom_Quentin())
 
 print_classe()
