@@ -9,10 +9,18 @@ def Nom_Alexandre ():
 def Prenom_Stephane ():
     return "Stephane"
 
+def Prenom_Quentin():
+    return "Quentin"
+
 def Nom_Stephane ():
     return "Godin"
 
+def Nom_Quentin():
+    return "Roulet"
+
 def print_classe ():
-    print (Prenom_Stephane(), " ", Nom_Stephane(), Prenom_Alexandre(), Nom_Alexandre())
+    print (Prenom_Stephane(), " ", Nom_Stephane())
+    print(Prenom_Quentin()," ",Nom_Quentin())
+	print(Prenom_Alexandre(), Nom_Alexandre())
 
 print_classe()
